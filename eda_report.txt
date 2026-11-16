@@ -1,0 +1,37 @@
+
+SWYNEX TASK 2 - EXPLORATORY DATA ANALYSIS
+Dataset: Titanic Cleaned Dataset
+
+1. DATASET OVERVIEW
+- Total Records: 778
+- Total Columns: 15
+- Missing Values: 0
+- Duplicate Rows: 0
+
+2. KEY STATISTICS
+- Average Age: 29.62
+- Average Fare: 34.91
+- Overall Survival Rate: 41.52%
+
+3. KEY INSIGHTS
+
+1. Female passengers had a survival rate of 74.06%,
+   compared to 21.86% for male passengers.
+
+2. First-class passengers had the highest survival rate
+   at 63.68%.
+
+3. Third-class passengers had the lowest survival rate
+   at 25.94%.
+
+4. Children had a survival rate of 57.35%,
+   higher than adults and senior passengers.
+
+5. Passengers travelling in families of 2 to 4 members
+   generally had higher survival rates than solo travellers.
+
+4. CONCLUSION
+The analysis shows that survival was associated with
+gender, passenger class, age and family size.
+These patterns describe the dataset and do not establish
+causation.
